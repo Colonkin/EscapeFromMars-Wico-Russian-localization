@@ -11,3 +11,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1653185489
 Озвучка в .xvm
 
 \1301917772\939436531236078624_legacy\Data\Scripts\EscapeFromMars\EscapeFromMars\Scenario\AudioClip.cs
+http://spaceengineers.ru/forum/14/4877
+
+
