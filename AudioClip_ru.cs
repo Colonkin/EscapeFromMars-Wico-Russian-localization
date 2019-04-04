@@ -54,17 +54,17 @@ namespace EscapeFromMars
 			"Дрон разоружен и возвращается на ремонт");
 
 		internal static readonly AudioClip EnemyDetectedMovingToIntercept = Create("EnemyDetectedMovingToIntercept", // USED
-			EscapeFromMars.Speaker.GCorp, "Враг обнаружен, двигаясь, чтобы перехватить");
+			EscapeFromMars.Speaker.GCorp, "Враг обнаружен, выдвигаюсь на перехват");
 
 		internal static readonly AudioClip FacilityDetectedHostile = Create("FacilityDetectedHostile",
-			EscapeFromMars.Speaker.GCorp, "Сканеры объекта подобрали враждебные. Отправьте соседние патрули в " +
+			EscapeFromMars.Speaker.GCorp, "Сканеры обнаружили объект врага. Отправьте соседние патрули в " +
 			                              "location",
 			 6000);
 
 		internal static readonly AudioClip GCorpBlockingSignals = Create("GCorpBlockingSignals",									// USED
 			EscapeFromMars.Speaker.Mabel,
-			@"Наш противник имеет полный контроль над марсианской поверхностью. Все первоначальные колонисты были удалены после их
-приобретение эксклюзивных прав на добычу полезных ископаемых. G-Corp блокирует все сигналы с планеты, кроме их собственных.",
+			@"Наш противник имеет полный контроль над марсианской поверхностью. Все колонисты были депортированы после 
+приобретения эксклюзивных прав на добычу полезных ископаемых. G-Corp блокирует все сигналы на планете, кроме собственных.",
 			13000);
 
 		internal static readonly AudioClip GCorpFacilitiesHeavilyArmed = Create("GCorpFacilitiesHeavilyArmed",					// USED
